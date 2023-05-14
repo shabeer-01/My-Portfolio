@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.ba3d3c21.css",
-    "main.js": "/My-Portfolio/static/js/main.25117640.js",
+    "main.css": "/My-Portfolio/static/css/main.06ecf0f4.css",
+    "main.js": "/My-Portfolio/static/js/main.f1e9f1f4.js",
     "static/media/img-1.jpg": "/My-Portfolio/static/media/img-1.ffd314ec2a51b349460e.jpg",
     "static/media/spc-1.png": "/My-Portfolio/static/media/spc-1.8ff2ab9a6645f364654b.png",
     "static/media/bg-4.jpg": "/My-Portfolio/static/media/bg-4.457bc7e40ca3a1ddf607.jpg",
@@ -13,7 +13,7 @@
     "static/media/azhvar.png": "/My-Portfolio/static/media/azhvar.382869f23fa9b7c63bf8.png",
     "static/media/bg.jpg": "/My-Portfolio/static/media/bg.b25a426713c58f98bde3.jpg",
     "static/media/asm.png": "/My-Portfolio/static/media/asm.46bb7704d50d2ac4ead3.png",
-    "static/media/shabeer-resume.pdf": "/My-Portfolio/static/media/shabeer-resume.726134ec48de55ce5131.pdf",
+    "static/media/shabeer-resume.pdf": "/My-Portfolio/static/media/shabeer-resume.6190015697053f395f07.pdf",
     "static/media/logo-4.png": "/My-Portfolio/static/media/logo-4.0cffbe85ba66cd1f1f8a.png",
     "static/media/netflix_logo.png": "/My-Portfolio/static/media/netflix_logo.073198cedb2ba2e92c16.png",
     "static/media/calculator.png": "/My-Portfolio/static/media/calculator.b8712af041cf669fd961.png",
@@ -26,11 +26,11 @@
     "static/media/html.png": "/My-Portfolio/static/media/html.c61ed4ddf71a79c9cb0d.png",
     "static/media/react.png": "/My-Portfolio/static/media/react.4e2b6cd480d548ea939e.png",
     "index.html": "/My-Portfolio/index.html",
-    "main.ba3d3c21.css.map": "/My-Portfolio/static/css/main.ba3d3c21.css.map",
-    "main.25117640.js.map": "/My-Portfolio/static/js/main.25117640.js.map"
+    "main.06ecf0f4.css.map": "/My-Portfolio/static/css/main.06ecf0f4.css.map",
+    "main.f1e9f1f4.js.map": "/My-Portfolio/static/js/main.f1e9f1f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba3d3c21.css",
-    "static/js/main.25117640.js"
+    "static/css/main.06ecf0f4.css",
+    "static/js/main.f1e9f1f4.js"
   ]
 }
